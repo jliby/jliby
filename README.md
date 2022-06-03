@@ -48,11 +48,12 @@ I'm an **Undergrad Student🎓 [@Univ of Florida](https://www.ufl.edu/)** pursui
 <img width="340" height="155" align="center" 
      src="https://github-readme-stats.vercel.app/api?username=jliby&show_icons=true&theme=radical" />
   
-  <img width="340" height="155" align="center" 
+
+</p>
+<p align="center">
+  <img width="500" height="155" align="center" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jliby&langs_count=8)"/>
-</p>'=
 
-
-
+</p>
 
 
