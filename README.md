@@ -16,7 +16,7 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@Univ of Florida](https://www.ufl.edu/)** pursuing Comp Sci. I'm a **Rising Engineer 😃** enjoys learning and working with new tech.  <br/><br/>
+I'm an **Undergrad Student🎓 [@Univ of Florida](https://www.ufl.edu/)** pursuing Comp Sci. I'm a **Rising Software Engineer 😃** who enjoys learning and working with new tech.  <br/><br/>
 
 
 
