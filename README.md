@@ -2,16 +2,7 @@
 <!--
 **jliby/jliby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 
@@ -47,10 +38,7 @@ I'm an **Undergrad Student🎓 [@Univ of Florida](https://www.ufl.edu/)** pursui
 
 
 
-<code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
-<code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>  
-</details>
+
 
 
 ### 🚀 Quick Stats
@@ -58,7 +46,7 @@ I'm an **Undergrad Student🎓 [@Univ of Florida](https://www.ufl.edu/)** pursui
 
 
 <img width="340" height="155" align="center" 
-     src="[https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" />
+     src="https://github-readme-stats.vercel.app/api?username=jliby&show_icons=true&theme=radical" />
 </p>
 
 
