@@ -29,7 +29,7 @@ I'm an **Undergrad Student🎓 [@Univ of Florida](https://www.ufl.edu/)** pursui
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 CI/CD Tooling
-  - 🖼 Researching Neuraevolution Algorithms
+  - 🖼 Researching Neuroevolution Algorithms @UF_MIL
   - 🛠 Interested in Software Engineering
   - 
 
