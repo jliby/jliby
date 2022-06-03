@@ -55,10 +55,10 @@ I'm an **Undergrad Student🎓 [@Univ of Florida](https://www.ufl.edu/)** pursui
 
 ### 🚀 Quick Stats
 <p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 <img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
+     src="[https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" />
 </p>
 
 
