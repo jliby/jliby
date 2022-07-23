@@ -33,7 +33,7 @@ I'm an **Undergrad Student🎓 [@Univ of Florida](https://www.ufl.edu/)** pursui
   - 🛠 Interested in Software Engineering
   - 
 
-- 📙 Check out my [Resume](https://www.linkedin.com/in/james-luberisse-51171b1b3/)
+- 📙 Check out my [Site](https://illustrious-caramel-854333.netlify.app/)
 - 🎉 Fun-Fact: I was an NASA Aerospace Scholar for one summer!
 
 
